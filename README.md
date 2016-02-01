@@ -3,7 +3,7 @@
 ####Question 1: Which line has the most critical hot car issue during sepecific day?
 They use a heatmap with weekdays as rows and Line Labels as column. The redder, the higher possibilities of taking a hot car. if color of two rectangles are similar, user can check actual possibilities in linearGradient.
 
-![HotCars-Q1](pics/HotCars-Q1-2.png)
+![HotCars-Q1](pics/HotCars-Q1-2.png)![HotCars-Q1-2](pics/HotCars-Q1-1.png)
 
 ####Question 2: I want to check the frenquencies and ratios of each car type.
 In parallel coordinates chart, they visualized "Hot Car" frequency count within 5 years (shown in the axes from "Year:2010" to "Year":2014). They calculated the ratios by using count divided by its "TotalNumber". "AvgMRatio" stands for average ratio for each car type in a certain month within 5 years. "AvgRatio" is the average AvgMRatio within all these months. By using brush to select lines in the chart below, you can either check the frenquencies and ratios of each car type, or view the trend in a certain month.
