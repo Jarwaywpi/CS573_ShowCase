@@ -13,5 +13,5 @@ In parallel coordinates chart, they visualized "Hot Car" frequency count within 
 In the sunburst chart, the inner ring represents different in-service age groups, the middle ring is the manufactuer, the outer ring shows car type.
 And the parallel set shows the relationship between reasons of the hot car problems(dirty, leaking, H/W damaged, malfunctioning, others), repairing method(reset, repair, replace) and "Hot Car" frequency trend.
 ![HotCars-Q3](pics/HotCars-Q3.png)
-
+===
 #####Project Link: http://hotcars-nyc.github.io/
