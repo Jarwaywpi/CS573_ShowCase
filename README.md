@@ -16,3 +16,21 @@ And the parallel set shows the relationship between reasons of the hot car probl
 ![HotCars-Q3](pics/HotCars-Q3.png)
 ===
 #####Project Link: http://hotcars-nyc.github.io/
+
+===
+#HashTags
+The cool project HashTags by Cheng Deng, Mi Tian and Xing Liu visuals the information spreading through Instagram.
+
+User can watch the growth of specific Instagram #Hashtag by clicking on the "Play" button on the right-bottom corner. And all the Instagram pictures of that Hashtag will show in the right column:
+![HashTags-right](pics/HotCars-Q2-2.png)
+
+All the posts will be a red point on the zoomable map:
+![HashTags-map](pics/HotCars-Q2-2.png)
+
+There's a time line you could check the trends of the Hashtag from:
+![HashTags-time](pics/HotCars-Q2-2.png)
+
+Click red points on the map can let users check on the details of that post:
+![HashTags-detail](pics/HotCars-Q2-2.png)
+---
+######Project Link: http://cdeng.github.io/HashtagTrends/
