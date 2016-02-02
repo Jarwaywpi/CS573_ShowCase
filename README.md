@@ -39,3 +39,22 @@ Click red points on the map can let users check on the details of that post:
 
 ---
 ######Project Link: http://cdeng.github.io/HashtagTrends/
+
+===
+![Dota-head1](pics/Dota-head1.png)
+![Dota-head2](pics/Dota-head2.png)
+---
+Lin Du, Zhongyuan Fu and Jifeng Kou's project DOTA2 Visualization - The Frankfurt Major 2015 focused on the competition of the most popular PC Game - DOTA2. They seperate their visual into three part: Team, Player and Hero.
+
+They show the teams and corresponding information that participate in the Frankfurt Tournament in the “Team” page. It has a cross table of all compete, where users can clearly get the information of win/loss between teams. Users can also interact with it by click on the team dots to preview the outcomes:
+![Dota-team](pics/Dota-team.png)
+
+For the Player part. The scatter plot is uesd to compare different players based on different criteria. The x-axis can represent the gold earned per game for one player and the y-axis can represent the damage he made per game:
+![Dota-Player](pics/Dota-Player.png)
+
+In the hero view part, they use sortable diverging stacked bar chart to show how many games a hero loses and how many games a hero wins. The order of each stacked bar can be changed by the filter, which can be sorted by the hero name, the appearance times or the win rate:
+![Dota-Hero](pics/Dota-Hero.png)
+
+---
+#####Project Link: http://datavisfordota2.github.io/vis.html
+===
